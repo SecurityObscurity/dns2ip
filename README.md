@@ -13,4 +13,5 @@ output
 domain1 IP
 domain2 IP1,IP2
 domain3 IP
+domain4       # <-- timeout or no ip address
 ```
